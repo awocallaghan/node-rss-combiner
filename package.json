@@ -1,0 +1,14 @@
+{
+  "name": "rss-combiner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "combine.js",
+  "author": "Alex O'Callaghan",
+  "license": "ISC",
+  "dependencies": {
+    "feedparser": "^1.1.4",
+    "q": "^1.4.1",
+    "request": "^2.72.0",
+    "rss": "^1.2.1"
+  }
+}
