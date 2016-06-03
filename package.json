@@ -1,6 +1,6 @@
 {
   "name": "rss-combiner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Combine multiple RSS feed sources into one",
   "keywords": [
     "rss",
@@ -14,7 +14,7 @@
   ],
   "main": "lib/index",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -u tdd --reporter spec"
   },
   "homepage": "http://github.com/awocallaghan/node-rss-combiner",
   "author": {
