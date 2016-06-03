@@ -1,14 +1,40 @@
 {
   "name": "rss-combiner",
-  "version": "0.0.1",
-  "description": "",
-  "main": "combine.js",
-  "author": "Alex O'Callaghan",
+  "version": "0.0.2",
+  "description": "Combine multiple RSS feed sources into one",
+  "keywords": [
+    "rss",
+    "xml",
+    "atom",
+    "feed",
+    "rss feed",
+    "feed builder",
+    "feed combiner",
+    "combine rss feeds"
+  ],
+  "main": "lib/index",
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "http://github.com/awocallaghan/node-rss-combiner",
+  "author": {
+    "name": "Alex O'Callaghan",
+    "email": "awocallaghan@gmail.com"
+  },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awocallaghan/node-rss-combiner.git"
+  },
   "dependencies": {
     "feedparser": "^1.1.4",
     "q": "^1.4.1",
     "request": "^2.72.0",
     "rss": "^1.2.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.5.3"
   }
 }

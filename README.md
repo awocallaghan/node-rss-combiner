@@ -10,12 +10,12 @@ Combine multiple RSS feeds into one using [node-feedparser](https://www.npmjs.co
 #### Combine feeds
 
 ```js
-    var RSSCombiner = require('rss-combiner');
+var RSSCombiner = require('rss-combiner');
 
-    RSSCombiner(feedConfig)
-        .then(function (combinedFeed) {
-            var xml = combinedFeed.xml();
-        });
+RSSCombiner(feedConfig)
+  .then(function (combinedFeed) {
+    var xml = combinedFeed.xml();
+  });
 ```
 
 ##### `feedOptions`
