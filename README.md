@@ -1,7 +1,7 @@
 rss-combiner
 ======
 
-Combine multiple RSS feeds into one using [node-feedparser](https://www.npmjs.com/package/node-feedparser) and [rss](https://www.npmjs.com/package/rss).
+Combine multiple RSS feeds into one using [node-feedparser](https://www.npmjs.com/package/node-feedparser "npm node-feedparser package") and [rss](https://www.npmjs.com/package/rss "npm rss package").
 
     npm install rss-combiner
 
@@ -12,15 +12,25 @@ Combine multiple RSS feeds into one using [node-feedparser](https://www.npmjs.co
 ```js
 var RSSCombiner = require('rss-combiner');
 
+// Promise usage
 RSSCombiner(feedConfig)
   .then(function (combinedFeed) {
     var xml = combinedFeed.xml();
   });
+
+// Node callback usage
+RSSCombiner(feedConfig, function (err, combinedFeed) {
+  if (err) {
+    console.error(err);
+  } else {
+    var xml = combinedFeed.xml();
+  }
+});
 ```
 
 ##### `feedOptions`
 
-See [rss](https://www.npmjs.com/package/rss "RSS npm package") `feedConfig`
+See [rss](https://www.npmjs.com/package/rss#feedoptions "feedOptions - rss (npm)") `feedOptions`
 
 Plus 2 additional required options:
 

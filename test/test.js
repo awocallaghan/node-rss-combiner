@@ -42,4 +42,19 @@ describe('RSSCombiner', function() {
         );
       });
   });
+
+  it('should use a callback function if given', function() {
+    const config = {
+      size:5,
+      feeds: [
+        'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
+        'http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml'
+      ]
+    };
+
+    RSSCombiner(config, (err, feed) => {
+      assert.isNull(err);
+      assert.isNotNull(feed);
+    });
+  })
 });
