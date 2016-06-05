@@ -32,7 +32,25 @@ RSSCombiner(feedConfig, function (err, combinedFeed) {
 
 See [rss](https://www.npmjs.com/package/rss#feedoptions "feedOptions - rss (npm)") `feedOptions`
 
-Plus 2 additional required options:
+Additional options
 
 * `size` **int** the maximum number of entries to keep (most recently published will be kept)
 * `feeds` **array url string** array of feed_urls to retrieve content from
+* `softFail` _optional_ **boolean** if true failing to retrieve a single feed will not result in an error being thrown (default value: false)
+
+##### Example `feedOptions`
+
+Creates a new feed with a maximum of 20 entries containing the latest entries from
+2 RSS feeds.
+
+```js
+var feedConfig = {
+  title: 'Tech news from Guardian and BBC',
+  size: 20,
+  feeds: [
+    'http://feeds.bbci.co.uk/news/technology/rss.xml',
+    'https://www.theguardian.com/uk/technology/rss'
+  ],
+  pubDate: new Date()
+};
+```

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>rss-combiner for Node</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 20:22:07 GMT</lastBuildDate>
+        <pubDate>Sun, 05 Jun 2016 20:22:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[How cancer was created by evolution]]></title>
+            <description><![CDATA[How cancer was created by evolution]]></description>
+            <link>http://www.bbc.com/earth/story/20160601-is-cancer-inevitable</link>
+            <guid isPermaLink="false">http://www.bbc.com/earth/story/20160601-is-cancer-inevitable</guid>
+            <pubDate>Sun, 05 Jun 2016 19:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTTPS and the illusion of privacy]]></title>
+            <description><![CDATA[HTTPS and the illusion of privacy]]></description>
+            <link>https://blog.jeaye.com/2016/05/30/https-illusion/</link>
+            <guid isPermaLink="false">https://blog.jeaye.com/2016/05/30/https-illusion/</guid>
+            <pubDate>Sun, 05 Jun 2016 19:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make your own tagging system from scratch]]></title>
+            <description><![CDATA[Make your own tagging system from scratch]]></description>
+            <link>http://www.kequc.com/2016/06/03/make-your-own-tagging-system-from-scratch</link>
+            <guid isPermaLink="false">http://www.kequc.com/2016/06/03/make-your-own-tagging-system-from-scratch</guid>
+            <pubDate>Sun, 05 Jun 2016 19:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google shows how Android apps will run on your Chromebook]]></title>
+            <description><![CDATA[Google shows how Android apps will run on your Chromebook]]></description>
+            <link>http://www.engadget.com/2016/06/05/google-shows-android-apps-on-chromebook/</link>
+            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/google-shows-android-apps-on-chromebook/</guid>
+            <category><![CDATA[android]]></category>
+            <category><![CDATA[chromebook]]></category>
+            <category><![CDATA[chromeos]]></category>
+            <category><![CDATA[gear]]></category>
+            <category><![CDATA[google]]></category>
+            <category><![CDATA[googleio2016]]></category>
+            <category><![CDATA[internet]]></category>
+            <category><![CDATA[mobile]]></category>
+            <category><![CDATA[personal computing]]></category>
+            <category><![CDATA[personalcomputing]]></category>
+            <category><![CDATA[software]]></category>
+            <category><![CDATA[video]]></category>
+            <dc:creator><![CDATA[Jon Fingas]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 19:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Zuckerberg's Twitter and Pinterest Accounts Hacked from Linkedin Breach]]></title>
+            <description><![CDATA[Mark Zuckerberg's Twitter and Pinterest Accounts Hacked from Linkedin Breach]]></description>
+            <link>https://twitter.com/Ben_Hall/status/739534393585340417</link>
+            <guid isPermaLink="false">https://twitter.com/Ben_Hall/status/739534393585340417</guid>
+            <pubDate>Sun, 05 Jun 2016 19:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hellcat: netcat that takes unfair advantage of traffic shaping systems]]></title>
+            <description><![CDATA[Hellcat: netcat that takes unfair advantage of traffic shaping systems]]></description>
+            <link>https://github.com/matildah/hellcat</link>
+            <guid isPermaLink="false">https://github.com/matildah/hellcat</guid>
+            <pubDate>Sun, 05 Jun 2016 19:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[List of selfie-related injuries and deaths]]></title>
+            <description><![CDATA[List of selfie-related injuries and deaths]]></description>
+            <link>https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths</link>
+            <guid isPermaLink="false">https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths</guid>
+            <pubDate>Sun, 05 Jun 2016 18:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nick Farr's 30c3 Jake Appelbaum story of abuse and harassment]]></title>
+            <description><![CDATA[Nick Farr's 30c3 Jake Appelbaum story of abuse and harassment]]></description>
+            <link>https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.uzs72fnhp</link>
+            <guid isPermaLink="false">https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.uzs72fnhp</guid>
+            <pubDate>Sun, 05 Jun 2016 18:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vvvv – a live-programming environment for easy prototyping and development]]></title>
+            <description><![CDATA[Vvvv – a live-programming environment for easy prototyping and development]]></description>
+            <link>https://vvvv.org</link>
+            <guid isPermaLink="false">https://vvvv.org</guid>
+            <pubDate>Sun, 05 Jun 2016 18:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nest’s time at Alphabet: A “virtually unlimited budget” with no results]]></title>
+            <description><![CDATA[Nest’s time at Alphabet: A “virtually unlimited budget” with no results]]></description>
+            <link>http://arstechnica.com/gadgets/2016/06/nests-time-at-alphabet-a-virtually-unlimited-budget-with-no-results/</link>
+            <guid isPermaLink="false">http://arstechnica.com/gadgets/2016/06/nests-time-at-alphabet-a-virtually-unlimited-budget-with-no-results/</guid>
+            <pubDate>Sun, 05 Jun 2016 17:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowden did more to raise NSA concerns than officials claimed]]></title>
+            <description><![CDATA[Snowden did more to raise NSA concerns than officials claimed]]></description>
+            <link>http://www.engadget.com/2016/06/05/snowden-did-more-to-raise-nsa-concerns/</link>
+            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/snowden-did-more-to-raise-nsa-concerns/</guid>
+            <category><![CDATA[culture]]></category>
+            <category><![CDATA[edwardsnowden]]></category>
+            <category><![CDATA[internet]]></category>
+            <category><![CDATA[nsa]]></category>
+            <category><![CDATA[politics]]></category>
+            <category><![CDATA[privacy]]></category>
+            <category><![CDATA[security]]></category>
+            <category><![CDATA[spying]]></category>
+            <category><![CDATA[surveillance]]></category>
+            <dc:creator><![CDATA[Jon Fingas]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 17:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Judge sends two to prison for 7 years for H-1B fraud]]></title>
+            <description><![CDATA[Judge sends two to prison for 7 years for H-1B fraud]]></description>
+            <link>http://www.computerworld.com/article/3079224/it-careers/judge-sends-two-to-prison-for-7-years-for-h-1b-fraud.html</link>
+            <guid isPermaLink="false">http://www.computerworld.com/article/3079224/it-careers/judge-sends-two-to-prison-for-7-years-for-h-1b-fraud.html</guid>
+            <pubDate>Sun, 05 Jun 2016 17:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mysterious Giant Sphere Unearthed in Forest Divides Opinion]]></title>
+            <description><![CDATA[Mysterious Giant Sphere Unearthed in Forest Divides Opinion]]></description>
+            <link>http://themindcircle.com/mysterious-giant-sphere-unearthed-forest-divides-opinion/</link>
+            <guid isPermaLink="false">http://themindcircle.com/mysterious-giant-sphere-unearthed-forest-divides-opinion/</guid>
+            <pubDate>Sun, 05 Jun 2016 16:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inhabitat's Week in Green: The first freeform 3D-printed house]]></title>
+            <description><![CDATA[Inhabitat's Week in Green: The first freeform 3D-printed house]]></description>
+            <link>http://www.engadget.com/2016/06/05/inhabitat-week-in-green-WATG-3d-printed-freeform-house/</link>
+            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/inhabitat-week-in-green-WATG-3d-printed-freeform-house/</guid>
+            <category><![CDATA[consumerreports]]></category>
+            <category><![CDATA[ford]]></category>
+            <category><![CDATA[fusionenergi]]></category>
+            <category><![CDATA[gear]]></category>
+            <category><![CDATA[gigafactory]]></category>
+            <category><![CDATA[gotthardbasetunnel]]></category>
+            <category><![CDATA[green]]></category>
+            <category><![CDATA[inhabitat]]></category>
+            <category><![CDATA[inhabitatsweekingreen]]></category>
+            <category><![CDATA[londonsciencemuseum]]></category>
+            <category><![CDATA[mit]]></category>
+            <category><![CDATA[partner]]></category>
+            <category><![CDATA[science]]></category>
+            <category><![CDATA[syndicated]]></category>
+            <category><![CDATA[tesla]]></category>
+            <category><![CDATA[toyota]]></category>
+            <category><![CDATA[toyotaprius]]></category>
+            <category><![CDATA[transportation]]></category>
+            <category><![CDATA[volkswagen]]></category>
+            <category><![CDATA[vw]]></category>
+            <category><![CDATA[watg]]></category>
+            <category><![CDATA[weekingreen]]></category>
+            <dc:creator><![CDATA[Inhabitat]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSObject (1994)]]></title>
+            <description><![CDATA[NSObject (1994)]]></description>
+            <link>http://www.nextop.de/NeXTstep_3.3_Developer_Documentation/Foundation/Classes/NSObject.htmld/index.html</link>
+            <guid isPermaLink="false">http://www.nextop.de/NeXTstep_3.3_Developer_Documentation/Foundation/Classes/NSObject.htmld/index.html</guid>
+            <pubDate>Sun, 05 Jun 2016 16:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Be warned, there's a nasty Google 2 factor auth attack going around]]></title>
+            <description><![CDATA[Be warned, there's a nasty Google 2 factor auth attack going around]]></description>
+            <link>https://twitter.com/maccaw/status/739232334541524992</link>
+            <guid isPermaLink="false">https://twitter.com/maccaw/status/739232334541524992</guid>
+            <pubDate>Sun, 05 Jun 2016 16:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Was Wrong About TypeScript]]></title>
+            <description><![CDATA[I Was Wrong About TypeScript]]></description>
+            <link>https://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/</link>
+            <guid isPermaLink="false">https://www.triplet.fi/blog/i-was-wrong-about-typescript-here-is-why/</guid>
+            <pubDate>Sun, 05 Jun 2016 15:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fall and Rise of Iridium]]></title>
+            <description><![CDATA[The Fall and Rise of Iridium]]></description>
+            <link>http://www.wsj.com/articles/the-fall-and-rise-of-iridium-1464980784</link>
+            <guid isPermaLink="false">http://www.wsj.com/articles/the-fall-and-rise-of-iridium-1464980784</guid>
+            <pubDate>Sun, 05 Jun 2016 15:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The After Math: Technology to the rescue]]></title>
+            <description><![CDATA[The After Math: Technology to the rescue]]></description>
+            <link>http://www.engadget.com/2016/06/05/the-after-math-technology-to-the-rescue/</link>
+            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/the-after-math-technology-to-the-rescue/</guid>
+            <dc:creator><![CDATA[Andrew Tarantola]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bose goes wireless with the QuietComfort 35 headphones]]></title>
+            <description><![CDATA[Bose goes wireless with the QuietComfort 35 headphones]]></description>
+            <link>http://www.engadget.com/2016/06/05/bose-quietcomfort-35-quietcontrol-30/</link>
+            <guid isPermaLink="false">http://www.engadget.com/2016/06/05/bose-quietcomfort-35-quietcontrol-30/</guid>
+            <category><![CDATA[av]]></category>
+            <category><![CDATA[bose]]></category>
+            <category><![CDATA[bosequietcomfort]]></category>
+            <category><![CDATA[bosequietcomfort35]]></category>
+            <category><![CDATA[bosequietcontrol20]]></category>
+            <category><![CDATA[gear]]></category>
+            <category><![CDATA[hands-on]]></category>
+            <category><![CDATA[headphones]]></category>
+            <category><![CDATA[quietcomfort]]></category>
+            <category><![CDATA[quietcomfort35]]></category>
+            <category><![CDATA[quietcontrol]]></category>
+            <category><![CDATA[quietcontrol20]]></category>
+            <category><![CDATA[wirelessheadphones]]></category>
+            <dc:creator><![CDATA[Edgar Alvarez]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 14:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -56,5 +56,22 @@ describe('RSSCombiner', function() {
       assert.isNull(err);
       assert.isNotNull(feed);
     });
-  })
+  });
+
+  it('shouldn\'t fail if softFail set to true', function() {
+    let config = {
+      size: 5,
+      feeds: [
+        'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
+        'http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml',
+        'http://example.com/fake.xml'
+      ]
+    };
+
+    assert.isRejected(RSSCombiner(config), 'Should fail if no softFail config value');
+
+    config.softFail = true;
+
+    assert.isFulfilled(RSSCombiner(config));
+  });
 });
