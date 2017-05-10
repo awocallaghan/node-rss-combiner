@@ -1,6 +1,6 @@
 {
   "name": "rss-combiner",
-  "version": "0.0.5",
+  "version": "1.0.0alpha",
   "description": "Combine multiple RSS feed sources into one",
   "keywords": [
     "rss",
