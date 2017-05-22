@@ -1,7 +1,24 @@
 'use strict';
 
+/**
+ * Main package tests
+ * - /lib/index.js
+ */
+
 require('./setup');
-const RSSCombiner = require('../lib');
+
+let RSSCombiner;
+
+beforeEach(() => {
+  RSSCombiner = require('./../lib');
+});
+afterEach(() => {
+  RSSCombiner = null;
+  // Empty require cache
+  delete require.cache[require.resolve('./../lib')];
+  delete require.cache[require.resolve('./../lib/parse-feed')];
+  delete require.cache[require.resolve('./../lib/feed')];
+});
 
 describe('RSSCombiner', function() {
   it('should reject invalid config', function() {
